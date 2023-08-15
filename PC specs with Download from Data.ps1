@@ -1,4 +1,5 @@
 ﻿<# 
+  Author: Nicolas Möller, Cedric Bühler
   .SYNOPSIS 
   Mit Menüauswahl Informationen holen   
   .DESCRIPTION 
